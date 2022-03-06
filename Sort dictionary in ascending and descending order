@@ -1,6 +1,0 @@
-d={1:2,3:4,4:3,2:1,0:0}
-print("original dictionary:",d)
-asc=Sorted(d.values())
-print("values in ascending order:",asc)
-asc.reverse()
-print("values in descending order:",asc)
